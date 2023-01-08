@@ -18,3 +18,5 @@ https://devpost.com/hackathons
 Books:
 https://www.audible.co.uk/pd/The-Hidden-Factor-Why-Thinking-Differently-Is-Your-Greatest-Asset-Audiobook/1629976830?action_code=ASSGB149080119000H&share_location=pdp
 
+Jenkins, how to participate in OpenSource
+https://www.jenkins.io/participate/
