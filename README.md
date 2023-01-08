@@ -12,3 +12,6 @@ https://www.linkedin.com/jobs/search/?currentJobId=3405438835&geoId=102264497&ke
 
 https://github.com/nasa/openmct
 
+Hackathons
+https://devpost.com/hackathons
+
