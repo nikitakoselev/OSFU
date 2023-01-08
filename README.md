@@ -1,6 +1,8 @@
 ADPList!!!
 https://adplist.org/invite/93870
 
+Best mentor/champion/leader ever
+https://angiejones.tech/
 
 https://www.linkedin.com/jobs/search/?currentJobId=3405438835&geoId=102264497&keywords=developer&location=Ukraine&refresh=true
 
